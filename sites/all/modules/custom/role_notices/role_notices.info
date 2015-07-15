@@ -1,0 +1,4 @@
+name = Role Notices
+description = "A module that provides notices per user role."
+core = 7.x
+package = Custom
